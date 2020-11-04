@@ -1,0 +1,3 @@
+C:\Users\sirbo\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\Definitions.CHello.h
+c:\users\sirbo\documents\unreal projects\chello\source\chello\MyActorComponent.h
+C:\Users\sirbo\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Inc\CHello\MyActorComponent.generated.h

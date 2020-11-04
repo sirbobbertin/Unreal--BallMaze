@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CHello-1478.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\CHelloEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\MyActorComponent1.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\Pawn_Enviroment.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\Player_Ball.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\CHello.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\CHelloGameModeBase.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\MyActor.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\MyActorComponent.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\CHello.init.gen.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\CHelloGameModeBase.gen.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\MyActor.gen.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\MyActorComponent.gen.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\MyActorComponent1.gen.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\Pawn_Enviroment.gen.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\Player_Ball.gen.cpp.obj"
+"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\Default.rc2.res"
+/OUT:"C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\UE4Editor-CHello-1478.lib"
+/INCLUDE:IMPLEMENT_MODULE_CHello

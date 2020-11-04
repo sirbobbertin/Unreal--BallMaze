@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CHello",
+			"Path": "C:\\Users\\sirbo\\OneDrive\\Documents\\Unreal Projects\\CHello\\Source\\CHello.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CHelloEditor",
+			"Path": "C:\\Users\\sirbo\\OneDrive\\Documents\\Unreal Projects\\CHello\\Source\\CHelloEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

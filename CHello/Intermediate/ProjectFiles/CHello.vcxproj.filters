@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CHello.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{66E20FB0-0C30-41E5-BE58-FC5063F1929B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CHello.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CHelloEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B15A7BE8-5B87-4E4F-A8B9-D9E492E1F502}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CHello">
+      <UniqueIdentifier>{1784EED7-FF23-4B1F-9778-FF416FE9E044}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CHello\CHello.Build.cs">
+      <Filter>Source\CHello</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CHello\CHello.cpp">
+      <Filter>Source\CHello</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CHello\CHello.h">
+      <Filter>Source\CHello</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CHello\CHelloGameModeBase.cpp">
+      <Filter>Source\CHello</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CHello\CHelloGameModeBase.h">
+      <Filter>Source\CHello</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CHello\MyActor.cpp">
+      <Filter>Source\CHello</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CHello\MyActor.h">
+      <Filter>Source\CHello</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CHello\MyActorComponent.cpp">
+      <Filter>Source\CHello</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CHello\MyActorComponent.h">
+      <Filter>Source\CHello</Filter>
+    </ClInclude>
+    <Filter Include="Source\CHello\Private">
+      <UniqueIdentifier>{74234681-BF46-4404-9329-442CD845E650}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CHello\Private\Coin.cpp">
+      <Filter>Source\CHello\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CHello\Private\CoinTest.cpp">
+      <Filter>Source\CHello\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CHello\Private\CoinTest2.cpp">
+      <Filter>Source\CHello\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CHello\Private\MyActorComponent1.cpp">
+      <Filter>Source\CHello\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CHello\Private\Pawn_Enviroment.cpp">
+      <Filter>Source\CHello\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CHello\Private\Player_Ball.cpp">
+      <Filter>Source\CHello\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CHello\Public">
+      <UniqueIdentifier>{1723C642-8784-4B7B-B462-5D203A5242D9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CHello\Public\Coin.h">
+      <Filter>Source\CHello\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CHello\Public\CoinTest.h">
+      <Filter>Source\CHello\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CHello\Public\CoinTest2.h">
+      <Filter>Source\CHello\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CHello\Public\MyActorComponent1.h">
+      <Filter>Source\CHello\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CHello\Public\Pawn_Enviroment.h">
+      <Filter>Source\CHello\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CHello\Public\Player_Ball.h">
+      <Filter>Source\CHello\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

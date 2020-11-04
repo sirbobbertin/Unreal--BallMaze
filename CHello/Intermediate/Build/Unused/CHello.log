@@ -1,0 +1,14 @@
+﻿  Parsing headers for CHelloEditor
+    Running UnrealHeaderTool "C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\CHello.uproject" "C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\CHelloEditor\Development\CHelloEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sirbo\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for CHelloEditor in 16.5736767 seconds
+  Building CHelloEditor...
+  Using Visual Studio 2019 14.27.29112 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 12 processes...
+    [1/7] Player_Ball.cpp
+C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Source\CHello\Private\Player_Ball.cpp(42): error C2352: 'APawn_Enviroment::AddScore': illegal call of non-static member function
+    C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Source\CHello\Public\Pawn_Enviroment.h(53): note: see declaration of 'APawn_Enviroment::AddScore'
+    [2/7] Pawn_Enviroment.gen.cpp
+    [3/7] Pawn_Enviroment.cpp
+    [4/7] Player_Ball.gen.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3073: The command "C:\Windows\System32\chcp.com 65001 >NUL 
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3073:  "C:\Program Files\Epic Games\UE_4.25\Engine\Build\BatchFiles\Build.bat" CHelloEditor Win64 Development -Project="C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\CHello.uproject" -WaitMutex -FromMsBuild" exited with code 6.

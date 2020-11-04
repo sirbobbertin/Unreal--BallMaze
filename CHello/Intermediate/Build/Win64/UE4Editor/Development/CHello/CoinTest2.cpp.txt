@@ -1,0 +1,7 @@
+C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Development\CHello\Definitions.CHello.h
+C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Source\CHello\Public\CoinTest2.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+C:\Users\sirbo\OneDrive\Documents\Unreal Projects\CHello\Intermediate\Build\Win64\UE4Editor\Inc\CHello\CoinTest2.generated.h
